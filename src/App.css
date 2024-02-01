@@ -8,7 +8,7 @@ body, .container {
   color: #3C3633; /* 기본 텍스트 색상 */
 }
 
-/* 박스와 헤더 */
+/* 박스, 헤더 */
 .box {
   background-color: #FFF8E3; /* 박스 배경색 */
   padding: 20px; /* 내부 여백 */
