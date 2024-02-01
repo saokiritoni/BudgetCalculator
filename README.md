@@ -1,3 +1,19 @@
+# 예산 계산기 
+- 지출 항목, 비용을 입력하면 목록에 저장됩니다.
+- 각 목록의 비용을 합해 총 지출을 계산합니다.
+- 수정 및 삭제 가능합니다.
+- 저장 및 수정 시 알림 바가 생성됩니다.
+
+# Budget Calculator
+
+- Enter the expenditure items and costs to save them in the list.
+- Calculate the total expenses by summing the costs of each item in the list.
+- You can modify and delete entries.
+- A notification bar appears when you save or edit.
+
+https://github.com/saokiritoni/react-crud/assets/144209738/234a9e2a-2823-4ad0-86b4-93febeb03c49
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
